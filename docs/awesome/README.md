@@ -104,6 +104,11 @@ sidebar: auto
     href: 'https://mp.weixin.qq.com/s/GPaSz4viebOik_XeGMmq4A'
   },
   {
+    tag:'test',
+    name:'test',
+    href:'www.test.com'
+  }
+  {
     tag: '微信公号',
     name: 'pandas爬取历史天气数据',
     href: 'https://mp.weixin.qq.com/s/BBR2JvvRmjPVCODWjI7BkQ'
